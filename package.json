@@ -1,0 +1,11 @@
+{
+  "name": "csbk-moba-arena-3d",
+  "version": "1.0.0",
+  "description": "CSBK MOBA Arena 3D browser multiplayer MVP",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
