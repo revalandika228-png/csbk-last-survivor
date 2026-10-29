@@ -1,0 +1,239 @@
+{
+  "prizes": [
+    {
+      "id": "zonk1",
+      "name": "ZONK",
+      "weight": 14.22857142857143,
+      "color": "#64748b",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "zonk2",
+      "name": "ZONK",
+      "weight": 14.22857142857143,
+      "color": "#475569",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "zonk3",
+      "name": "ZONK",
+      "weight": 14.22857142857143,
+      "color": "#334155",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "robux5",
+      "name": "5 ROBUX",
+      "weight": 14.22857142857143,
+      "color": "#22c55e",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "rp1000",
+      "name": "Rp1.000",
+      "weight": 14.22857142857143,
+      "color": "#38bdf8",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "robux10",
+      "name": "10 ROBUX",
+      "weight": 14.22857142857143,
+      "color": "#16a34a",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "rp2000",
+      "name": "Rp2.000",
+      "weight": 14.22857142857143,
+      "color": "#a78bfa",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "indo",
+      "name": "JAJAN INDOMARET maks Rp10rb",
+      "weight": 0.1,
+      "color": "#ef4444",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "alfa",
+      "name": "JAJAN ALFAMART maks Rp10rb",
+      "weight": 0.1,
+      "color": "#f97316",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "token",
+      "name": "TOKEN LISTRIK Rp10rb",
+      "weight": 0.1,
+      "color": "#facc15",
+      "limited": false,
+      "active": true
+    },
+    {
+      "id": "rp10000",
+      "name": "Rp10.000",
+      "weight": 0.1,
+      "color": "#ec4899",
+      "limited": true,
+      "active": false
+    }
+  ],
+  "participants": {
+    "mireqeniozara": {
+      "name": "mireqeniozara",
+      "discordName": "",
+      "pin": "",
+      "tier": "Sultan",
+      "tickets": 6,
+      "usedTickets": 6
+    },
+    "skylarkgw": {
+      "name": "SkylarkGw",
+      "discordName": "",
+      "pin": "",
+      "tier": "Overlord",
+      "tickets": 7,
+      "usedTickets": 7
+    }
+  },
+  "history": [
+    {
+      "id": 13,
+      "name": "SkylarkGw",
+      "prize": "JAJAN ALFAMART maks Rp10rb",
+      "prizeId": "alfa",
+      "at": "2026-10-29T08:14:39.435Z",
+      "tier": "Overlord",
+      "ticketUsed": 7
+    },
+    {
+      "id": 12,
+      "name": "SkylarkGw",
+      "prize": "TOKEN LISTRIK Rp10rb",
+      "prizeId": "token",
+      "at": "2026-10-29T08:14:28.948Z",
+      "tier": "Overlord",
+      "ticketUsed": 6
+    },
+    {
+      "id": 11,
+      "name": "SkylarkGw",
+      "prize": "ZONK",
+      "prizeId": "zonk3",
+      "at": "2026-10-29T08:14:19.365Z",
+      "tier": "Overlord",
+      "ticketUsed": 5
+    },
+    {
+      "id": 10,
+      "name": "SkylarkGw",
+      "prize": "Rp1.000",
+      "prizeId": "rp1000",
+      "at": "2026-10-29T08:14:09.003Z",
+      "tier": "Overlord",
+      "ticketUsed": 4
+    },
+    {
+      "id": 9,
+      "name": "SkylarkGw",
+      "prize": "10 ROBUX",
+      "prizeId": "robux10",
+      "at": "2026-10-29T08:13:57.478Z",
+      "tier": "Overlord",
+      "ticketUsed": 3
+    },
+    {
+      "id": 8,
+      "name": "SkylarkGw",
+      "prize": "JAJAN INDOMARET maks Rp10rb",
+      "prizeId": "indo",
+      "at": "2026-10-29T08:13:47.041Z",
+      "tier": "Overlord",
+      "ticketUsed": 2
+    },
+    {
+      "id": 7,
+      "name": "SkylarkGw",
+      "prize": "JAJAN INDOMARET maks Rp10rb",
+      "prizeId": "indo",
+      "at": "2026-10-29T08:13:13.860Z",
+      "tier": "Overlord",
+      "ticketUsed": 1
+    },
+    {
+      "id": 6,
+      "name": "mireqeniozara",
+      "prize": "TOKEN LISTRIK Rp10rb",
+      "prizeId": "token",
+      "at": "2026-10-29T08:11:51.815Z",
+      "tier": "Sultan",
+      "ticketUsed": 6
+    },
+    {
+      "id": 5,
+      "name": "mireqeniozara",
+      "prize": "ZONK",
+      "prizeId": "zonk2",
+      "at": "2026-10-29T08:11:41.214Z",
+      "tier": "Sultan",
+      "ticketUsed": 5
+    },
+    {
+      "id": 4,
+      "name": "mireqeniozara",
+      "prize": "5 ROBUX",
+      "prizeId": "robux5",
+      "at": "2026-10-29T08:11:23.953Z",
+      "tier": "Sultan",
+      "ticketUsed": 4
+    },
+    {
+      "id": 3,
+      "name": "mireqeniozara",
+      "prize": "ZONK",
+      "prizeId": "zonk3",
+      "at": "2026-10-29T08:11:09.252Z",
+      "tier": "Sultan",
+      "ticketUsed": 3
+    },
+    {
+      "id": 2,
+      "name": "mireqeniozara",
+      "prize": "5 ROBUX",
+      "prizeId": "robux5",
+      "at": "2026-10-29T08:10:55.351Z",
+      "tier": "Sultan",
+      "ticketUsed": 2
+    },
+    {
+      "id": 1,
+      "name": "mireqeniozara",
+      "prize": "Rp10.000",
+      "prizeId": "rp10000",
+      "at": "2026-10-29T08:08:27.944Z",
+      "tier": "Sultan",
+      "ticketUsed": 1
+    }
+  ],
+  "spin": {
+    "id": 13,
+    "status": "done",
+    "participant": "SkylarkGw",
+    "prizeId": "alfa",
+    "startedAt": 1793261672933,
+    "duration": 6500,
+    "finishedAt": 1793261679435
+  },
+  "nextDrawId": 14
+}
